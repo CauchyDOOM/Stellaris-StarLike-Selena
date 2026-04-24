@@ -1,9 +1,9 @@
 
 portraits = {
-	Starlike4 = {texturefile = "gfx/models/portraits/Starlike_01.dds"  }
+	Starlike1 = {texturefile = "gfx/models/portraits/Starlike_01.dds"  }
 	Starlike2 = {texturefile = "gfx/models/portraits/Starlike_02.dds"  }
 	Starlike3 = {texturefile = "gfx/models/portraits/Starlike_03.dds"  }
-	Starlike1 = {texturefile = "gfx/models/portraits/Starlike_04.dds"  }
+	Starlike4 = {texturefile = "gfx/models/portraits/Starlike_04.dds"  }
 	Starlike5 = {texturefile = "gfx/models/portraits/Starlike_05.dds"  }
 	Starlike6 = {texturefile = "gfx/models/portraits/Starlike_06.dds"  }
 	Starlike7 = {texturefile = "gfx/models/portraits/Starlike_07.dds"  }

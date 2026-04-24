@@ -1,6 +1,6 @@
 
 portraits = {
-	Starlike13 = {texturefile = "gfx/models/portraits/Starlike_01.dds"  }
+	Starlike1 = {texturefile = "gfx/models/portraits/Starlike_01.dds"  }
 	Starlike2 = {texturefile = "gfx/models/portraits/Starlike_02.dds"  }
 	Starlike3 = {texturefile = "gfx/models/portraits/Starlike_03.dds"  }
 	Starlike4 = {texturefile = "gfx/models/portraits/Starlike_04.dds"  }
@@ -12,7 +12,7 @@ portraits = {
 	Starlike10 = {texturefile = "gfx/models/portraits/Starlike_10.dds"  }
 	Starlike11 = {texturefile = "gfx/models/portraits/Starlike_11.dds"  }
 	Starlike12 = {texturefile = "gfx/models/portraits/Starlike_12.dds"  }
-	Starlike1 = {texturefile = "gfx/models/portraits/Starlike_13.dds"  }
+	Starlike13 = {texturefile = "gfx/models/portraits/Starlike_13.dds"  }
 	Starlike14 = {texturefile = "gfx/models/portraits/Starlike_14.dds"  }
 }
 

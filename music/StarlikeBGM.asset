@@ -1,0 +1,5 @@
+music = {
+	name = "mainBGM_1"
+	file = "starlike_music.ogg"
+	volume = 0.90
+}

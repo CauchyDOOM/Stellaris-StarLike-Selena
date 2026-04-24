@@ -1,0 +1,70 @@
+# Generated species derive their names from here
+
+"Star_Like" = {
+	aikaniya = {
+		language = "l_simp_chinese"
+		name = "埃卡妮娅"
+		plural = "埃卡妮娅"
+		home_planet = "埃卡妮娅星语者学院"
+		home_system = "埃卡妮娅"
+		name_list = "mammalian_01"
+	}
+}
+
+
+"StarLike_Factions" = {
+	yitihanhe = {
+		language = "l_simp_chinese"
+		name = "一体汉和"
+		plural = "一体汉和"
+		home_planet = "辉夙星"
+		home_system = "Gliese-832"
+		name_list = "MAM2"
+	}
+
+	sailinna = {
+		language = "l_simp_chinese"
+		name = "赛琳娜之耀"
+		plural = "赛琳娜之耀"
+		home_planet = "应天"
+		home_system = "Gliese-581"
+		name_list = "MAM2"
+	}
+
+	shengtonghui = {
+		language = "l_simp_chinese"
+		name = "圣瞳会"
+		plural = "圣瞳会"
+		home_planet = "索尔托斯"
+		home_system = "Proxima"
+		name_list = "MAM2"
+	}
+
+	diguo = {
+		language = "l_simp_chinese"
+		name = "沙顿穆恩帝国"
+		plural = "沙顿穆恩帝国"
+		home_planet = "维德伯特星"
+		home_system = "Gliese-163"
+		name_list = "MAM2"
+	}
+
+	lianhehui = {
+		language = "l_simp_chinese"
+		name = "芒廷帕斯联合会"
+		plural = "芒廷帕斯联合会"
+		home_planet = "弗格星"
+		home_system = "TRAPPIST-1"
+		name_list = "MAM2"
+	}
+
+	heijiao = {
+		language = "l_simp_chinese"
+		name = "黑礁革命阵线"
+		plural = "黑礁革命阵线"
+		home_planet = "丹波"
+		home_system = "Gliese-370"
+		name_list = "MAM2"
+	}
+
+}

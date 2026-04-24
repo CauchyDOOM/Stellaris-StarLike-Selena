@@ -1,0 +1,127 @@
+
+portraits = {
+	Starlike1 = {texturefile = "gfx/models/portraits/Starlike_01.dds"  }
+	Starlike2 = {texturefile = "gfx/models/portraits/Starlike_02.dds"  }
+	Starlike3 = {texturefile = "gfx/models/portraits/Starlike_03.dds"  }
+	Starlike4 = {texturefile = "gfx/models/portraits/Starlike_04.dds"  }
+	Starlike5 = {texturefile = "gfx/models/portraits/Starlike_05.dds"  }
+	Starlike6 = {texturefile = "gfx/models/portraits/Starlike_06.dds"  }
+	Starlike7 = {texturefile = "gfx/models/portraits/Starlike_07.dds"  }
+	Starlike8 = {texturefile = "gfx/models/portraits/Starlike_08.dds"  }
+	Starlike9 = {texturefile = "gfx/models/portraits/Starlike_09.dds"  }
+	Starlike10 = {texturefile = "gfx/models/portraits/Starlike_10.dds"  }
+	Starlike11 = {texturefile = "gfx/models/portraits/Starlike_11.dds"  }
+	Starlike12 = {texturefile = "gfx/models/portraits/Starlike_12.dds"  }
+	Starlike13 = {texturefile = "gfx/models/portraits/Starlike_13.dds"  }
+	Starlike14 = {texturefile = "gfx/models/portraits/Starlike_14.dds"  }
+}
+
+portrait_groups = {
+
+"aikaniya" = {
+	default = Starlike1
+	game_setup = {
+		add = {
+			portraits = {
+				Starlike1
+				Starlike2
+				Starlike3
+				Starlike4
+				Starlike5
+				Starlike6
+				Starlike7
+				Starlike8
+				Starlike9
+				Starlike10
+				Starlike11
+				Starlike12
+				Starlike13
+				Starlike14
+			}
+		}
+	}
+	#species scope
+	species = {
+		add = {
+			portraits = {
+				Starlike1
+				Starlike2
+				Starlike3
+				Starlike4
+				Starlike5
+				Starlike6
+				Starlike7
+				Starlike8
+				Starlike9
+				Starlike10
+				Starlike11
+				Starlike12
+				Starlike13
+				Starlike14
+			}
+		}
+	}
+	#pop scope
+	pop = {
+		add = {
+			portraits = {
+				Starlike1
+				Starlike2
+				Starlike3
+				Starlike4
+				Starlike5
+				Starlike6
+				Starlike7
+				Starlike8
+				Starlike9
+				Starlike10
+				Starlike11
+				Starlike12
+				Starlike13
+				Starlike14
+			}
+		}
+	}
+	#leader scope
+	leader = {
+		add = {
+			portraits = {
+				Starlike1
+				Starlike2
+				Starlike3
+				Starlike4
+				Starlike5
+				Starlike6
+				Starlike7
+				Starlike8
+				Starlike9
+				Starlike10
+				Starlike11
+				Starlike12
+				Starlike13
+				Starlike14
+			}
+		}
+	}
+	#leader scope
+	ruler = {
+		add = {
+			portraits = {
+				Starlike1
+				Starlike2
+				Starlike3
+				Starlike4
+				Starlike5
+				Starlike6
+				Starlike7
+				Starlike8
+				Starlike9
+				Starlike10
+				Starlike11
+				Starlike12
+				Starlike13
+				Starlike14
+			}
+		}
+	}
+}

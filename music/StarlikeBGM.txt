@@ -1,0 +1,3 @@
+song = {
+	Name = "mainBGM_1"
+}

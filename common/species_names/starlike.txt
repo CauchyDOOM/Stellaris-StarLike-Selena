@@ -1,0 +1,62 @@
+# Generated species derive their names from here
+
+"Star_Like" = {
+	aiyaniya = {
+		name = "Carnie"
+		plural = "Carnie"
+		home_planet = "Carnie Academy"
+		home_system = "Carnie"
+		name_list = "mammalian_01"
+	}
+}
+
+
+"StarLike_Factions" = {
+	yitihanhe = {
+		name = "Commonwealth Of Pan-Galaxy Unified"
+		plural = "Commonwealth Of Pan-Galaxy Unified"
+		home_planet = "Destined Bright"
+		home_system = "Gliese-832"
+		name_list = "MAM2"
+	}
+
+	sailinna = {
+		name = "The Glory Of Selene"
+		plural = "The Glory Of Selene"
+		home_planet = "Ying Tian"
+		home_system = "Gliese-581"
+		name_list = "MAM2"
+	}
+
+	shengtonghui = {
+		name = "Divine Vision"
+		plural = "Divine Vision"
+		home_planet = "Soltos"
+		home_system = "Gliese-163"
+		name_list = "MAM2"
+	}
+
+	White_Eagle = {
+		name = "Shaton Moun Empire"
+		plural = "Shaton Moun Empire"
+		home_planet = "Vidbert"
+		home_system = "Gliese-163"
+		name_list = "MAM2"
+	}
+
+	Shigezakura = {
+		name = "Mountainpass Federation"
+		plural = "Mountainpass Federation"
+		home_planet = "Fogg"
+		home_system = "TRAPPIST-1"
+		name_list = "MAM2"
+	}
+
+	Shigezakura = {
+		name = "Dark Reef Revolutionary Front"
+		plural = "Dark Reef Revolutionary Front"
+		home_planet = "Tanpa"
+		home_system = "Gliese-370"
+		name_list = "MAM2"
+	}
+}

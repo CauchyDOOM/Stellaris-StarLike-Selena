@@ -1,0 +1,31 @@
+
+"Star_Like" = {
+	archetype = BIOLOGICAL
+
+	portraits = {
+		"aikaniya"
+	}
+
+	graphical_culture = "mammalian_01"
+	#city_graphical_culture = "mammalian_01"
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+
+"StarLike_Factions" = {
+	archetype = BIOLOGICAL
+	randomized = no
+
+
+	portraits = { 
+		"yitihanhe"
+		"sailinna"
+		"shengtonghui"
+		"diguo"
+		"lianhehui"
+		"heijiao"
+	}
+
+	graphical_culture = "mammalian_01"
+	#city_graphical_culture = "mammalian_01"
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
